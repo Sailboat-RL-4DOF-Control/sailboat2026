@@ -1,13 +1,15 @@
-# Sailboat-control reproducibility materials
+# Open-Source 4-DOF Sailboat Control with SAC, SAC-LSTM, and MPC
 
-This folder follows the same direct-script style used during the experiments.
-It is intentionally not packaged as a Python project: enter `code/`, run the
-desired `.py` file, or open that file in VS Code/PyCharm and click Run.
+This repository provides an open-source control workflow for a four-degree-of-freedom
+sailboat, including SAC and SAC-LSTM training, wind and no-wind simulation environments,
+automatic model evaluation, reward ablations, and a full 20-step-horizon MPC baseline.
+The code keeps the direct-script workflow used during development: enter `code/`, run
+the desired `.py` file, or open it in VS Code/PyCharm and click Run.
 
 ## Directory
 
 ```text
-sailboat_reproducibility/
+sailboat2026/
 ├─ README.md
 ├─ requirements.txt
 └─ code/
