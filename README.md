@@ -1,6 +1,6 @@
-# Open-Source 4-DOF Sailboat Control with SAC, SAC-LSTM, and MPC
+# 4-DOF Unmanned Sailboat RL Control
 
-This repository provides an open-source control workflow for a four-degree-of-freedom
+This repository provides a control workflow for a four-degree-of-freedom
 sailboat, including SAC and SAC-LSTM training, wind and no-wind simulation environments,
 automatic model evaluation, reward ablations, and a full 20-step-horizon MPC baseline.
 The code keeps the direct-script workflow used during development: enter `code/`, run
