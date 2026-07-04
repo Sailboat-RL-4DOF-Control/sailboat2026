@@ -253,3 +253,7 @@ an initial step of 0.05 s and tolerance `1e-6`. This is separate from the fixed
 
 MPC numerical values can be changed with `--prediction-horizon`, `--rk4-step`,
 `--slsqp-starts`, `--max-iter`, `--max-steps`, and `--wind-directions`.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
