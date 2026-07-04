@@ -1,0 +1,9 @@
+# Python 3.11
+numpy==1.23.5
+scipy==1.11.4
+torch==2.2.2
+gymnasium==0.29.1
+stable-baselines3==2.2.1
+cloudpickle==3.0.0
+pygame==2.5.2
+matplotlib==3.8.4
